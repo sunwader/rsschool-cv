@@ -1,1 +1,2 @@
-# https://sunwader.github.io/rsschool-cv/
+rsschool-cv
+[Sunwader CV](https://sunwader.github.io/rsschool-cv/cv)
